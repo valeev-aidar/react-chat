@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+.app {
+  font: 15px "Century Gothic", Futura, sans-serif;
+  margin: 20px;
+  width: 800px;
+  flex-direction: column;
+}
+.info {
+  margin-bottom: 5px;
+  display: flex;
+  flex-direction: row;
+}
